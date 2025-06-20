@@ -115,13 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Contact
-
-**Abhijeet Enterprises**
-- Website: [vigillot.com](https://vigillot.com)
-- Email: contact@vigillot.com
-- Phone: +1 (555) 123-4567
-
 ## 🙏 Acknowledgments
 
 - [Unsplash](https://unsplash.com) for high-quality IoT imagery
